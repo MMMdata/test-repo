@@ -1,2 +1,2 @@
 # test-repo
-Test repository for Data Scientist's Toolbox course
+Test repository for Data Scientist's Toolbox course.
